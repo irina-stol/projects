@@ -1,5 +1,5 @@
 ---
-title: "Applications of Data Science and Statistical Modelling Assignment: Clustering power demand"
+title: "Clustering power demand"
 author: '650061180'
 date: "05/01/2020"
 output: pdf_document
