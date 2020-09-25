@@ -9,4 +9,4 @@ which I have published on my portfolio website at [irina-stol.github.io](https:/
 
 ## Short-term forecasting of harmful algae blooms with GAMs
 - Blog post at [Short-term forecasting](https://irina-stol.github.io/2020-09-24-short-term-fcst/)
-- Supporting code can be found here names 'short-term-fcst-GAM.R'
+- Supporting code can be found here names 'short-term-fcst.R'
